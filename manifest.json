@@ -1,7 +1,9 @@
 {
   "domain": "meteochile_weather",
   "name": "MeteoChile Weather",
-  "codeowners": [],
+  "codeowners": [
+    "@joasssko"
+  ],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/joasssko/meteochile_weather",

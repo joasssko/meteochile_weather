@@ -1,0 +1,1 @@
+# Custom integration to get current condition from Chilean weather stations
