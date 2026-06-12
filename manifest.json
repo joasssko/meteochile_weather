@@ -1,0 +1,14 @@
+{
+  "domain": "meteochile_weather",
+  "name": "MeteoChile Weather",
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/joasssko/meteochile_weather",
+  "integration_type": "device",
+  "iot_class": "cloud_polling",
+  "requirements": [
+    "aiohttp"
+  ],
+  "version": "1.0.0"
+}
