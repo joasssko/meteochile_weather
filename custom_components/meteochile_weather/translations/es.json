@@ -3,7 +3,7 @@
         "step": {
             "user": {
                 "title": "Configurar MeteoChile",
-                "description": "Ingrese la información de la estación de MeteoChile que quiere agregar. Puedes obtener los datos de cuenta y estación desde https://climatologia.meteochile.gob.cl/",
+                "description": "Ingrese la información de la estación de MeteoChile que quiere agregar. Puedes obtener los datos de cuenta y estación desde Climatologia Meteochile",
                 "data": {
                     "station_id": "ID de estación (ej., 330020)",
                     "email": "Email",

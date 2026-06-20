@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "Configure MeteoChile Weather Station",
-        "description": "Enter the details for the MeteoChile station you want to add. Get your station ID and token from https://climatologia.meteochile.gob.cl/",
+        "description": "Enter the details for the MeteoChile station you want to add. Get your station ID and token from Climatologia Meteochile",
         "data": {
           "station_id": "Station ID (e.g., 330020)",
           "email": "Email Address",
